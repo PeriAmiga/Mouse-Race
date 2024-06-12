@@ -96,15 +96,15 @@ function BoardGame() {
     useEffect(() => {
         const collectInterval = setInterval(() => {
             setCollectElements((prevElements) => moveCollectElements(prevElements));
-        }, 1000);
+        }, 500);
 
         const avoidInterval = setInterval(() => {
             setAvoidElements((prevElements) => moveAvoidElements(prevElements));
-        }, 1000);
+        }, 500);
 
         const changeInterval = setInterval(() => {
             setChangeElements((prevElements) => moveChangeElements(prevElements));
-        }, 1000);
+        }, 500);
 
         const collectDirectionInterval = setInterval(() => {
             setCollectElements((prevElements) => changeElementsDirection(prevElements));
