@@ -2,7 +2,7 @@
 	<h1 style="text-align: center;">Mouse Race Game</h1>
     <img src="./GamePicture.png" alt="gamePicture" style="max-width: 50%; ">
 	<br/>
-	<a href="https://example.com">See the game in action!</a>
+	<a href="https://mouse-race.netlify.app">See the game in action!</a>
 </div>
 
 <h2>Description</h2>

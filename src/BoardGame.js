@@ -138,7 +138,7 @@ function BoardGame() {
                 setIsRunning(false);
             }
         }
-    }, [collectElements, changeElements]);
+    }, [collectElements, changeElements, gameProgress, isStarted]);
 
     // Handle collect element click to remove it from the board
     function handleRemoveCollectElement(index) {
