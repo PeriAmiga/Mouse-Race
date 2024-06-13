@@ -1,9 +1,11 @@
 <div align="center">
 	<h1 style="text-align: center;">Mouse Race Game</h1>
-    <video controls style="display: block; margin: 0 auto;">
-    <source src="https://youtu.be/c3A9rRpnEps">
-		Your browser does not support the video tag.
-	</video>
+    <iframe width="100%" height="400" 
+	        src="https://www.youtube.com/embed/c3A9rRpnEps?controls=1&modestbranding=1&rel=0" 
+	        frameborder="0" 
+	        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" 
+		allowfullscreen>
+	</iframe>
 	<br/>
 	<a href="https://mouse-race.netlify.app">See the game in action!</a>
 </div>
