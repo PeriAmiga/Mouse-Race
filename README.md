@@ -1,11 +1,6 @@
 <div align="center">
 	<h1 style="text-align: center;">Mouse Race Game</h1>
-    <iframe width="100%" height="400" 
-	        src="https://www.youtube.com/embed/c3A9rRpnEps?controls=1&modestbranding=1&rel=0" 
-	        frameborder="0" 
-	        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" 
-		allowfullscreen>
-	</iframe>
+    <img src="./GameIntroduction.png" alt="gamePicture" style="max-width: 50%; ">
 	<br/>
 	<a href="https://mouse-race.netlify.app">See the game in action!</a>
 </div>
