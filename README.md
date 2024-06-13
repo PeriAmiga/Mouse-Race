@@ -1,6 +1,9 @@
 <div align="center">
 	<h1 style="text-align: center;">Mouse Race Game</h1>
-    <img src="./GamePicture.png" alt="gamePicture" style="max-width: 50%; ">
+    <video controls style="display: block; margin: 0 auto;">
+    <source src="./GameIntroduction.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	</video>
 	<br/>
 	<a href="https://mouse-race.netlify.app">See the game in action!</a>
 </div>
